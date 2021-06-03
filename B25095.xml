@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation. James R. Whereas we are informed that the price of corn, meal, wooll, leather, and other commodities is so high, that the persons imployed by us to make stores and magazines of grain, and to provide clothes and other necessaries for our troops, ...</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25095</idno><idno type="EEBO-CITATION">99886419</idno>
+  <idno type="VID">186673</idno>
+  <idno type="EEBO-PROQUEST">2264214818</idno>
+  
+            <idno type="STC">Wing J300</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[98]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[108]</idno>
+            <idno type="STC">ESTC R225988</idno>
+            <idno type="PROQUEST">ocm99886419</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886419e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25095)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186673)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[98]; C23:1[108])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation. James R. Whereas we are informed that the price of corn, meal, wooll, leather, and other commodities is so high, that the persons imployed by us to make stores and magazines of grain, and to provide clothes and other necessaries for our troops, ...</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] leaves).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for alderman James Malone printer to the King's most excellent Majesty; and are to be sold at his shop in Skinner-Row, and by Andrew Crook on Ormond-Key.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1689 [i.e. 1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at our court at Dublin Castle the 28th day of February, 1689.".</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Fixing the price of commodities bought for public service.</note>
+                  <note>Arms 188.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186673:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>I<seg rend="sup">2</seg> R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> BY THE KING.</head>
+            <head>A PROCLAMATION.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS We are informed that the Price of Corn, Meal, Wooll, Leather, and other Commodities is so high, that the persons imployed by Vs to make Stores and Magazines of Grain, and to provide clothes and other necessaries for Our Troops, cannot Buy the same but at Excessive Rates, though We are well assured there are great quantities of all sorts of Grain, of Wooll, Leather, and other Commodities within this Our Kingdom; and having on the one hand con<g ref="char:EOLhyphen"/>sidered the absolute necessity of making Magazines and stores of Grain and Meal for the support of Our Army, and of pro<g ref="char:EOLhyphen"/>viding clothes and other necessaries for Our Troops; and on the other hand, at what rate the Farmers, Husbandmen, and other Dealers and Traders may <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll the same to discharge their Rents, Subsidies, and other incumbrances, reserving a com<g ref="char:EOLhyphen"/>petency for the use of their Families, and a sufficient propor<g ref="char:EOLhyphen"/>tion of Seed for Tillage; We have thought fit, by the Advice of our Privy Council, to sett a rate upon such Eorn, Meal, Wooll, Leather, and other Commodities as shall be bought for Our use: We do therefore, by the Advice aforesaid, strictly Charge and Command all Farmers, Husbandmen and Others, who have any Wheat, Bear, Barley, Mestin, Oats or Oatmeal, that they dispose of the same, or so much thereof as We shall think fit to make use of, at the rates following; That is to say, twenty shillings the Barrel of the best Wheat, eighteen shillings the Barrel of ordinary Wheat, fifteen shillings the Barrel of Mestin, twelve shillings the Barrel of the best Bear, eleven shillings the Barrel of ordinary Bear, thirteen shillings the Barrel of the best Mault, and twelve shillings the Barrel of ordinary Mault, fourteen shillings the Barrel of good Barley, and six shillings the Barrel of good Oats, in the Counties of <hi>Du<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>,</hi> City of <hi>Du<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eath, Westmeath, Wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>klow,</hi> and <hi>Kilda<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e;</hi> And fifteen shillings the Barrel of the best Wheat, thirteen shillings the Barrel of ordinary Wheat, eleven shillings the Barrel of the best Bear, ten shillings the Barrel of ordinary Bear, twelve shillings the Barrel of the best Mault, eleven shillings the Barrel of ordinary Mault, twelve shillings the Barrel of good Barley, four shillings the Barrel of good Oats, and twelve shillings the Barrel of good Oatmeal in all other parts of the Kingdom; the said Barrel to be <hi>Briston</hi> measure, and the said respective rates to be paid upon the delivery of the said Corn or Meal at Our Store next the pla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e where the Corn or Meal lyes. And in case the Farmers, Husbandmen, and others that have such
+<pb facs="tcp:186673:2"/> Corn or Meal of sell, shall Refuse to bring the same to Our Stores at the Rates aforesaid, at the Request of the Commissioner General of Our Provisions and Stores, or of Our Commissaryes of Bread, or his or their Deputies or Agents, We do hereby strictly Charge and Command Our respective Lieutenants, Deputy Lieutenants and Sheriffs of Our Counties of this Our Kingdom, that they or any of them do Immediately compell the said Farmers, Husband▪men and others to thrash and prepare their said Corn and Meal, and to bring the same to Our said Stores, or such Proportion thereof as shall be thought necessary for Our Service; at the rates aforesaid, in which case Our said Lieutenants, Depu<g ref="char:EOLhyphen"/>ty Lieutenants and Sheriffs, Our said Commissioner General of Our Provisions and Stores, Our Commissaries of Bread, his and their Deputies and Agents are to take special care that the said Farmers, Husbandmen and others having such Corn and Meal be permitted to keep a sufficient Proportion thereof for the subsistence of them and their Families, with sufficient quan<g ref="char:EOLhyphen"/>tity of Barly and Oates for Tillage as aforesaid: And We do further strictly Charge and Com<g ref="char:EOLhyphen"/>mand Our said Commissioner generall of Our Provisions and Stores, Our Commissaryes of Bread, his and their Deputies or Agents upon the delivery of any such Corn or Meal into a<g ref="char:EOLhyphen"/>ny of Our Stores, that they thereupon pay down to the owners of such Corn and Meal accord<g ref="char:EOLhyphen"/>ing to the rates aforesaid. And We do further require Our said Commissioner general of Our Provisions to appoint several Storehouses in such places as may lye convenient for such Farmers, Husbandmen, and others to carry such Corn or Meal to Our Stores as aforesaid. And We do further by the advice of Our Privy Council strictly Charge and Command all such as have any Store of Wooll, Leather, Tallow or salted Hides, that they dispose of so much thereof, for Our use, as We shall have occasion for, at the rates following, that is to say, for good Merchantable Wooll ten shillings the stone, and for good Merchantable tanned Leather seven pence the pound sole Leather, and six pence the pound upper Leather; for Tallow thirty shillings the hundred weight, and for large oxe Hides salted twenty shillings the hundred weight, and for other salt Hides thirteén shillings the hundred weight: And in case the owners of such Wooll, Leather, Tallow or Hides, shall refuse to supply Our occasions at the rates aforesaid, We do hereby Declare that We will give directions to the Commissioners of Our Treasury to cause so much of the said Wooll, Leather, Tallow and Hydes to be seized upon for Our Vse at the rates aforesaid, as we shall have occasion for.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Dublin</hi> Castle</hi>
+                  <date>
+                     <hi>the 28th day of <hi>February.</hi> 1689. And in the sixth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed for Alderman <hi>James Malone</hi> Printer to the King's most Excellent Majesty; and are to be sold at his shop in <hi>Skinner-Row,</hi> and by <hi>Andrew Crook</hi> on <hi>Ormond-Key.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
